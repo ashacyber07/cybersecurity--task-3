@@ -1,4 +1,4 @@
-# cybersecurity--task-3 perform a Basic Vulnerability scan on ypur pc ( Nessus )
+# cybersecurity--task-3 perform a Basic Vulnerability scan on your pc ( Nessus )
 
 ✅ Overview
 This guide provides step-by-step instructions to install, configure, and perform a basic vulnerability scan on a Windows PC using Tenable Nessus, a powerful vulnerability assessment tool used by security professionals worldwide.
