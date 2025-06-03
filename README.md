@@ -1,7 +1,8 @@
 # cybersecurity--task-3 perform a Basic Vulnerability scan on your pc ( Nessus )
 
 ✅ Overview
-This guide provides step-by-step instructions to install, configure, and perform a basic vulnerability scan on a Windows PC using Tenable Nessus, a powerful vulnerability assessment tool used by security professionals worldwide.
+This guide provides step-by-step instructions to install, configure, and perform a basic vulnerability scan on a Windows PC using Tenable Nessus,
+a powerful vulnerability assessment tool used by security professionals worldwide.
 
 ✅ Prerequisites
 A PC running Windows 10 or later
@@ -12,18 +13,15 @@ A valid email address (for Nessus Essentials license activation)
 📦 Installation Steps
 
 * Download Nessus
-
 Go to: https://www.tenable.com/products/nessus/nessus-essentials
 Choose Nessus Essentials and select Windows as the platform.
 Register with your email to receive the activation code.
 
 * Install Nessus
-
 Run the downloaded .exe file.
 Follow the on-screen prompts to complete installation.
 
 * Start Nessus
-
 Once installed, Nessus opens in your default browser at: https://localhost:8834
 Create an admin user.
 Enter the activation code received via email.
